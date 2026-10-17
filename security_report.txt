@@ -1,0 +1,28 @@
+MINI SOC LOG ANALYZER - SECURITY REPORT
+========================================
+Total login attempts: 15
+Successful logins: 3
+Failed logins: 12
+Invalid log lines: 1
+
+FAILED LOGINS BY IP:
+192.168.1.15: 3 failed attempts
+192.168.1.20: 3 failed attempts
+192.168.1.50: 3 failed attempts
+192.168.1.60: 3 failed attempts
+
+SECURITY ALERTS:
+Suspicious IP: 192.168.1.15
+Failures in window: 3
+Window start: 2026-10-17 09:01:00
+Window end: 2026-10-17 09:03:00
+
+Suspicious IP: 192.168.1.20
+Failures in window: 3
+Window start: 2026-10-17 09:05:00
+Window end: 2026-10-17 09:07:00
+
+Suspicious IP: 192.168.1.60
+Failures in window: 3
+Window start: 2026-10-17 11:00:00
+Window end: 2026-10-17 11:05:00
